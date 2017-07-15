@@ -1,2 +1,2 @@
 # EDUtility
-handy utility method for ios development
+handy utility method for iOS development
